@@ -1,7 +1,7 @@
 {
     "name": "vt-debug-console-vite",
     "author": "vario",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "license": "MIT",
     "description": "Development-only debug console utilities for Vite projects.",
     "main": "src/debug.ts",
@@ -9,8 +9,7 @@
     "files": [
 		"src",
 		"LICENSE",
-		"README.md",
-        "tsconfig.json"
+		"README.md"
 	],
 	"keywords": [
 		"vite",
