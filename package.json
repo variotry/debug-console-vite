@@ -1,0 +1,26 @@
+{
+    "name": "vt-debug-console-vite",
+    "author": "vario",
+    "version": "0.1",
+    "license": "MIT",
+    "description": "Development-only debug console utilities for Vite projects.",
+    "main": "src/debug.ts",
+    "types": "src/debug.ts",
+    	"files": [
+		"src",
+		"LICENSE",
+		"README.md"
+	],
+	"keywords": [
+		"vite",
+		"typescript"
+	],
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/variotry/debug-console-vite.git"
+	},
+    "devDependencies": {
+        "typescript": "^5.0",
+        "vite" : "^5.0"
+    }
+}
